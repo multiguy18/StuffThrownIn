@@ -4,4 +4,4 @@ This is just a collection of either stupid programs or useful tools. Use them at
 
 This Repo contains:
 - MidiFlood: Random midi data generator
-- MoarStuff: (Currently) Tool to generate properties for MVVM
+- MoarStuff: Tool to generate properties for MVVM (may be renamed) 
