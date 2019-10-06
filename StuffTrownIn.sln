@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MidiFlood", "MidiFlood\MidiFlood.csproj", "{FE68B697-D6A8-4607-A48D-A963EFD838E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoarStuff", "MoarStuff\MoarStuff.csproj", "{4897CE90-E982-40C6-A45B-7EACD060A2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumpReader", "LumpReader\LumpReader.csproj", "{F297732E-979B-42B8-A617-52FAC1E0FF8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4897CE90-E982-40C6-A45B-7EACD060A2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4897CE90-E982-40C6-A45B-7EACD060A2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4897CE90-E982-40C6-A45B-7EACD060A2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F297732E-979B-42B8-A617-52FAC1E0FF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F297732E-979B-42B8-A617-52FAC1E0FF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F297732E-979B-42B8-A617-52FAC1E0FF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F297732E-979B-42B8-A617-52FAC1E0FF8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
