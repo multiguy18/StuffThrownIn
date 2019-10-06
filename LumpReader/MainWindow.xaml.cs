@@ -61,7 +61,7 @@ namespace LumpReader
             imgElem.Source = bitmap;
         }
 
-        private void DrawGrapic(string name)
+        private void DrawGraphic(string name)
         {
 
             FileStream graphicsStream = new FileStream(name, FileMode.Open);
@@ -216,7 +216,7 @@ namespace LumpReader
                     {
                         case "lmp":
                             InitGraphics(palette, true);
-                            DrawGrapic(filepath);
+                            DrawGraphic(filepath);
                             break;
                         case "raw":
                             InitGraphics(palette, false);
